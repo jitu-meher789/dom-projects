@@ -125,7 +125,7 @@ body {
 .blank-corner {
   height: 30px;
   width: 30px;
-  background-color: red;
+  background-color: black;
   position: fixed;
   top: 17.5vh;
   left: 0;
@@ -178,5 +178,5 @@ body {
 }
 
 .grid-selected-cell {
-  border: 3px solid blue;
+  border: 2px solid green;
 }
